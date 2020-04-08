@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "suppressImplicitAnyIndexErrors": true,
+    "esModuleInterop": true
+  },
+}
